@@ -1,0 +1,3 @@
+www.baidu.com CNAME www.a.shifen.com null
+www.baidu.com A 180.97.33.108 null
+www.baidu.com A 180.97.33.107 null
